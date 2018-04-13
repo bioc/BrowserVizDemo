@@ -1,7 +1,7 @@
 Package: BrowserVizDemo
 Type: Package
 Title: BrowserVizDemo: How to subclass BrowserViz
-Version: 1.11.0
+Version: 1.11.1
 Date: 2017-07-31
 Author: Paul Shannon
 Maintainer: Paul Shannon <pshannon@systemsbiology.org>
@@ -12,3 +12,4 @@ Description: A BrowserViz subclassing example, xy plotting in the browser using 
 License: GPL-2
 LazyLoad: yes
 biocViews: Visualization, ThirdPartyClient
+PackageStatus: Deprecated
